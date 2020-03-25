@@ -24,7 +24,7 @@
 			<span class="sep"> | </span>
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'jabberwock' ), 'jabberwock', '<a href="https://github.com/tomozaidem">Tomo Zaidem</a>' );
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'jabberwock' ), 'jabberwock', '<a href="https://github.com/brewedtech">Tomo Zaidem</a>' );
 				?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
